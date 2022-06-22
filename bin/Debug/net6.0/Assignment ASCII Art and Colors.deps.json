@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment ASCII Art and Colors/1.0.0": {
+        "runtime": {
+          "Assignment ASCII Art and Colors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment ASCII Art and Colors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
